@@ -13,4 +13,7 @@ O layout foi construído utilizando **CSS Grid**, com as seguintes áreas princi
 
 - **Header**: Inclui o logo e o menu de navegação.  
 - **Main**: Exibe as notícias principais e categorias secundárias.  
-- **Aside**: Área lateral para destaques ou links adicionais.  
+- **Aside**: Área lateral para destaques ou links adicionais.
+
+ ![Cover](https://imgur.com/a/m6T7j1F)
+
